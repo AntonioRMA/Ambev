@@ -54,6 +54,7 @@ The coverage of API and WEB tests includes user creation, login (administrator a
 
 ### Getting the automation version from the repository:
 - `git clone https://github.com/AntonioRMA/Ambev.git`
+- `git pull origin master --allow-unrelated-histories`
 
 ### How to execute the automation:
 1. Access the `Ambev` folder from the cloned repository
