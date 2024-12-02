@@ -1,0 +1,15 @@
+{
+  "name": "ambevtech_qa_test",
+  "version": "1.0.0",
+  "description": "Web and Mobile Assessment Test in Cypress for Senior QA Analyst Position",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Rodrigues",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^9.2.0",
+    "cypress": "^13.16.0"
+  }
+}
